@@ -105,10 +105,12 @@ Inference time reduced from **0.0009s to 0.000867s**, demonstrating efficiency g
 - **Scalability:** Extend support for multiple languages and larger datasets.
 
 ## Collaborators
-- Bipin Kumar Marasini (THA078BCT014)
-- Dharmendra Singh Chaudhary (THA078BCT016)
-- Kohinoor Dallakoti (THA078BCT020)
-- Ramesh Kathayat (THA078BCT034)
+
+- [Bipin Kumar Marasini](https://github.com/Bipin-km) (THA078BCT014)  
+- [Dharmendra Singh Chaudhary](https://github.com/dharmendra016) (THA078BCT016)  
+- [Kohinoor Dallakoti](https://github.com/omipiepy) (THA078BCT020)  
+- [Ramesh Kathayat](https://github.com/username) (THA078BCT034)  
+
 
 This project is developed as part of our Minor Project.
 
