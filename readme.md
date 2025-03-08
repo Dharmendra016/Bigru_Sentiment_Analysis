@@ -20,6 +20,7 @@
     - [Model Evaluation](#model-evaluation)
   - [Results and Discussion](#results-and-discussion)
   - [Future Enhancements](#future-enhancements)
+  - [Collaborators](#collaborators)
   - [Conclusion](#conclusion)
 
 ---
@@ -102,6 +103,15 @@ Inference time reduced from **0.0009s to 0.000867s**, demonstrating efficiency g
 - **IoT Integration:** Deploy the model on smartwatches, security systems, and healthcare monitors.
 - **Further Optimizations:** Implement hardware-aware optimizations for faster processing.
 - **Scalability:** Extend support for multiple languages and larger datasets.
+
+## Collaborators
+- Bipin Kumar Marasini (THA078BCT014)
+- Dharmendra Singh Chaudhary (THA078BCT016)
+- Kohinoor Dallakoti (THA078BCT020)
+- Ramesh Kathayat (THA078BCT034)
+
+This project is developed as part of our Minor Project.
+
 
 ## Conclusion
 This project successfully optimizes GRU models for sentiment analysis using LTH, KD, and QAT. The results show significant improvements in computational efficiency while maintaining high accuracy, making the model suitable for deployment in real-world, resource-constrained environments.
